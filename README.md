@@ -24,7 +24,7 @@ Vem ser um mochileiro Tech! 🚀
 
 ## Languages & Tools 🛠  
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&color=green)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;  
 ![Mentoring](https://img.shields.io/badge/-Mentoring-05122A?style=flat&color=gray)&nbsp;![Communication](https://img.shields.io/badge/-Communication-05122A?style=flat&color=gray)&nbsp;  
 
 ## Analytics ⚙️
