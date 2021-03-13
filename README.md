@@ -39,8 +39,8 @@ Vem ser um mochileiro Tech! 🚀
 
 ## Co-Founders
 
-- Aryel Costa
-- Barbara Rossalli
-- Daniela Yabe
-- Guillaume Falourd
-- Vinicius Oliveira
+- [Aryel Costa](https://www.linkedin.com/in/aryel-costa-b4386166/)
+- [Barbara Rossalli](https://www.linkedin.com/in/b%C3%A1rbara-rossalli-2548189a/)
+- [Daniela Yabe](https://www.linkedin.com/in/daniela-yabe-12ba19b3/)
+- [Guillaume Falourd](http://bit.ly/guillaumefalourdlinkedin)
+- [Vinicius Oliveira](https://www.linkedin.com/in/viniciusfdeoliveira/)
