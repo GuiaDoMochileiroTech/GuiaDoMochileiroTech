@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-## Introduction
+https://user-images.githubusercontent.com/77902315/116792801-5bb15a80-aa99-11eb-8377-39114acaf54c.mp4
+
+## Introdução
 
 ### O que é o GMTech?
 É um projeto independente e gratuito que tem por intuito criar um guia simplificando o mundo tech.
@@ -22,9 +24,8 @@ Você está em alguma área tech e quer fazer parte dessa rede para contribuir c
 
 Vem ser um mochileiro Tech! 🚀		
 
-## Languages & Tools 🛠  
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&color=green)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;  
+## Ferramentas 🛠  
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&color=green)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;  
 ![Mentoring](https://img.shields.io/badge/-Mentoring-05122A?style=flat&color=gray)&nbsp;![Communication](https://img.shields.io/badge/-Communication-05122A?style=flat&color=gray)&nbsp;  
 
 ## Analytics ⚙️
@@ -33,7 +34,7 @@ Vem ser um mochileiro Tech! 🚀
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=GuiaDoMochileiroTech&count_private=true&show_icons=true)
 <!--![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuiaDoMochileiroTech&hide_border=true) -->
 
-## Let's connect? 🤝
+## Vamos conectar? 🤝
 
 <p><a href="https://github.com/GuiaDoMochileiroTech" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/_gmtech" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.instagram.com/_gmtech/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instgram&logoColor=white" /></a> <a href="guiadomochileirotech@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a></p>
 
