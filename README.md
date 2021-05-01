@@ -24,11 +24,11 @@ Você está em alguma área tech e quer fazer parte dessa rede para contribuir c
 
 Vem ser um mochileiro Tech! 🚀		
 
-## Ferramentas 🛠  
+## Ferramentas & Competências 🛠  
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&color=green)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;  
 ![Mentoring](https://img.shields.io/badge/-Mentoring-05122A?style=flat&color=gray)&nbsp;![Communication](https://img.shields.io/badge/-Communication-05122A?style=flat&color=gray)&nbsp;  
 
-## Analytics ⚙️
+## Alguns dados ⚙️
 
 <!-- ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiaDoMochileiroTech&layout=compact&count_private=true) -->
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=GuiaDoMochileiroTech&count_private=true&show_icons=true)
